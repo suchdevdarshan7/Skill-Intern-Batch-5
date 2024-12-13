@@ -1,0 +1,58 @@
+  /* ! Syntax of css */
+  
+  /* selector{
+            property: value;
+        } */
+
+        /* button{
+            background-color: red;
+        } */
+
+/* ~ Selectors */
+
+
+/*  1. Element selector or tag name selector */
+
+/* button{
+                background-color: red;
+            } */
+
+/* 2. Id selector */
+
+        /* #btn {
+            background-color: cyan;
+} */
+
+/* 3. Class selector */
+
+/* h1.heading {
+    background-color: crimson;
+} */
+
+        /* 4. Generic class selector */
+
+        /* .heading {
+            background-color: hotpink;
+        } */
+
+        /* 5.Universal selector:  */
+
+        /* * {
+            font-family: algerian;
+        } */
+
+        /* 6. attribute selector */
+
+        /* input[value] {
+            background-color: red;
+        } */
+
+        /* 7. attribute value selector */
+
+        input[type="text"] {
+            background-color: red;
+        }
+
+        input[type="password"] {
+            background-color: blue;
+        }

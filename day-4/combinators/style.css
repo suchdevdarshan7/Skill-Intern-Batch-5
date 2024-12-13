@@ -1,0 +1,25 @@
+ /* ! Combinators */
+        /* 1. Descendant Selector */
+
+        /* .container p {
+            color: red;
+        } */
+
+        /* ! 2. Child selector */
+
+        /* .container>p {
+            color: blue;
+        } */
+
+        /* ! 3. Adjacent sibling selector */
+
+        /* p+p {
+            color: crimson;
+        } */
+
+        /* 4. General sibling selector */
+
+        /* .container~p {
+            color: blue;
+        } */
+
